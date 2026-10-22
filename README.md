@@ -8,7 +8,7 @@ Science, Technology & Society student at the University of Washington Bothell, m
 
 How often the home team wins across 1,677 NFL games (2020–2025), and what else affects who wins. SQL analysis and an interactive Excel dashboard with pivot tables and a season filter.
 
-`Python``PostgreSQL``SQL``Excel`
+`Python` `PostgreSQL` `SQL` `Excel`
 
 ### [Steam Market Analytics Dashboard](https://github.com/dmuong02/Steam-Analytics)
 
