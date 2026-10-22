@@ -4,11 +4,11 @@ Science, Technology & Society student at the University of Washington Bothell, m
 
 ## Projects
 
-### [NFL Game Outcome Predictor](https://github.com/dmuong02/NFL-Predictor)
+### [NFL Home-Field Advantage Analysis]((https://github.com/dmuong02/NFL-Analytics))
 
-Machine learning model predicting NFL winners from team performance history, without betting lines. Logistic Regression, 68.4% accuracy on the full 2025 season.
+How often the home team wins across 1,677 NFL games (2020–2025), and what else affects who wins. SQL analysis and an interactive Excel dashboard with pivot tables and a season filter.
 
-`Python` `scikit-learn` `pandas` `PostgreSQL`
+`Python``PostgreSQL``SQL``Excel`
 
 ### [Steam Market Analytics Dashboard](https://github.com/dmuong02/Steam-Analytics)
 
@@ -18,11 +18,14 @@ End-to-end BI pipeline analyzing pricing, genres, and review sentiment across th
 
 ### Pokémon TCG 30th Anniversary Price Tracker *(in progress)*
 
-Tracking how card prices move after release and what makes a card valuable, using the JustTCG API.
+An automated pipeline that collects daily prices for all 188 cards in the 30th Celebration set, with SQL views and a Tableau Public dashboard.
+
+`Python` `PostgresSQL` `Github Actions` `Tableau`
+
 ## Tools
 
 Python (pandas, scikit-learn) · SQL · PostgreSQL (Neon) · Power BI · Git
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/danielmuong/) · Open to data analytics and data engineering internships
+[LinkedIn](https://www.linkedin.com/in/danielmuong/) · Open to data analytics and data engineering roles
